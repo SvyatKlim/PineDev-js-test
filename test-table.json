@@ -1,0 +1,32 @@
+[
+ {
+   "company": "Centro comercial Moctezuma",
+   "contact": "Francisco Chang",
+   "country": "Mexico"
+ },
+ {
+   "company": "Ernst Handel",
+   "contact": "Roland Mendel",
+   "country": "Germany"
+ },
+ {
+   "company": "Island Trading",
+   "contact": "Maria Bennett",
+   "country": "UK"
+ },
+ {
+   "company": "Laughing Bacchus Winecellars",
+   "contact": "Yoshi Tannamuri",
+   "country": "Canada"
+ },
+ {
+   "company": "Magazzini Alimentari Riuniti",
+   "contact": "Giovanni Rovelli",
+   "country": "Italy"
+ },
+ {
+  "company": "Alfreds Futterkiste",
+  "contact": "Maria Anders",
+  "country": "Germany"
+ }
+]
